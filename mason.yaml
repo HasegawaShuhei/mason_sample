@@ -13,3 +13,5 @@ bricks:
   #     path: bricks/widget
   widget:
     path: ./bricks/widget/
+  state_with_freezed:
+    path: ./bricks/state_with_freezed/
